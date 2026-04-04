@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "cyc",
+    "name": "Craft Yarn Council",
+    "url": "https://www.craftyarncouncil.com",
+    "type": "standard"
+  },
+  {
+    "source_id": "tkga",
+    "name": "The Knitting Guild Association",
+    "url": "https://www.tkga.org",
+    "type": "organization"
+  },
+  {
+    "source_id": "cgoa",
+    "name": "Crochet Guild of America",
+    "url": "https://www.crochet.org",
+    "type": "organization"
+  },
+  {
+    "source_id": "jis-l0201",
+    "name": "JIS L0201 Japanese Industrial Standard",
+    "url": null,
+    "type": "standard"
+  },
+  {
+    "source_id": "yctd-original",
+    "name": "YCTD Original Research",
+    "url": "https://github.com/this4dani/yarn-craft-terminology-database",
+    "type": "organization"
+  }
+]
