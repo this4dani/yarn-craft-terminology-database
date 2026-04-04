@@ -1,0 +1,42 @@
+[
+  {
+    "craft_id": "crochet",
+    "name": "Crochet",
+    "description": "Fabric creation using a single hook to interlock loops of yarn"
+  },
+  {
+    "craft_id": "knitting",
+    "name": "Knitting",
+    "description": "Fabric creation using two or more needles to interlock loops of yarn"
+  },
+  {
+    "craft_id": "tunisian",
+    "name": "Tunisian Crochet",
+    "description": "A hybrid technique using an elongated hook that combines elements of crochet and knitting"
+  },
+  {
+    "craft_id": "weaving",
+    "name": "Weaving",
+    "description": "Fabric creation by interlacing warp and weft threads on a loom"
+  },
+  {
+    "craft_id": "embroidery",
+    "name": "Embroidery",
+    "description": "Decorative stitching applied to existing fabric using a needle and thread or yarn"
+  },
+  {
+    "craft_id": "tatting",
+    "name": "Tatting",
+    "description": "Lace-making technique using knots and loops formed with a shuttle or needle"
+  },
+  {
+    "craft_id": "macrame",
+    "name": "Macramé",
+    "description": "Textile creation using knotting rather than weaving or knitting"
+  },
+  {
+    "craft_id": "general",
+    "name": "General / Cross-Craft",
+    "description": "Terms, tools, and materials used across multiple yarn craft disciplines"
+  }
+]
