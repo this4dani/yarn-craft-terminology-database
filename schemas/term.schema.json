@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://yarncraftdatabase.org/schemas/term.schema.json",
+  "title": "YCTD Term",
+  "description": "Schema for a single term in the Yarn Craft Terminology Database",
+  "type": "object",
+  "required": ["term_id", "entry_type", "craft_type", "category", "name_us", "description", "difficulty", "status"],
+  "properties": {
+    "term_id": {
+      "type": "string",
+      "description": "Unique identifier, typically US abbreviation in caps",
+      "pattern": "^[A-Z0-9_-]+$"
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": ["stitch", "technique", "tool", "material", "pattern-term"]
+    },
+    "craft_type": {
+      "type": "string",
+      "description": "References craft_types.craft_id"
+    },
+    "category": {
+      "type": "string",
+      "description": "References categories.category_id"
+    },
+    "name_us": {
+      "type": "string",
+      "description": "Full US English name"
+    },
+    "name_uk": {
+      "type": ["string", "null"],
+      "description": "Full UK English name if different from US"
+    },
+    "abbrev_us": {
+      "type": ["string", "null"],
+      "description": "US abbreviation"
+    },
+    "abbrev_uk": {
+      "type": ["string", "null"],
+      "description": "UK abbreviation"
+    },
+    "description": {
+      "type": "string",
+      "description": "Original definition written for clarity and accuracy"
+    },
+    "instruction": {
+      "type": ["string", "null"],
+      "description": "Step-by-step instructions for performing the stitch or technique"
+    },
+    "difficulty": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Skill level: 1=beginner, 5=expert"
+    },
+    "time_to_learn": {
+      "type": ["string", "null"],
+      "description": "Estimated learning time"
+    },
+    "best_for": {
+      "type": ["string", "null"],
+      "description": "Common project applications"
+    },
+    "common_mistakes": {
+      "type": ["string", "null"],
+      "description": "Frequent errors when executing"
+    },
+    "pro_tips": {
+      "type": ["string", "null"],
+      "description": "Expert guidance"
+    },
+    "hook_sizes": {
+      "type": ["string", "null"],
+      "description": "Recommended hook or needle sizes"
+    },
+    "left_handed_note": {
+      "type": ["string", "null"],
+      "description": "Adaptation guidance for left-handed crafters"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Array of tag IDs"
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Array of source IDs"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "draft", "review"]
+    }
+  },
+  "additionalProperties": false
+}
