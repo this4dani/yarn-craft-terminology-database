@@ -1,1 +1,54 @@
-
+[
+  {
+    "term_id": "SN",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "SN",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "SN",
+    "tag_id": "starting"
+  },
+  {
+    "term_id": "CH",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "CH",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "CH",
+    "tag_id": "essential"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "common"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "beginner-friendly"
+  },
+  {
+    "term_id": "DC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "DC",
+    "tag_id": "common"
+  },
+  {
+    "term_id": "HDC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "HDC",
+    "tag_id": "common"
+  }
+]
