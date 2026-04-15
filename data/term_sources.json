@@ -16,6 +16,14 @@
     "source_id": "cgoa"
   },
   {
+    "term_id": "SLST",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SLST",
+    "source_id": "cgoa"
+  },
+  {
     "term_id": "SC",
     "source_id": "cyc"
   },
@@ -24,8 +32,12 @@
     "source_id": "cgoa"
   },
   {
-    "term_id": "SC",
-    "source_id": "tkga"
+    "term_id": "HDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "HDC",
+    "source_id": "cgoa"
   },
   {
     "term_id": "DC",
@@ -36,11 +48,363 @@
     "source_id": "cgoa"
   },
   {
-    "term_id": "HDC",
+    "term_id": "TR",
     "source_id": "cyc"
   },
   {
-    "term_id": "HDC",
+    "term_id": "TR",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "INC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "INC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "DEC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "DEC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SC2TOG",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SC2TOG",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "DC2TOG",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "DC2TOG",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "INVDEC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "INVDEC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "MR",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "MR",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FSC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FSC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FHDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FHDC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BLO",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BLO",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FLO",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FLO",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FPDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FPDC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BPDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BPDC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FPTR",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FPTR",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BPTR",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BPTR",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "POP",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "POP",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BOBBLE",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BOBBLE",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "PUFF",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "PUFF",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "CL",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "CL",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "VST",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "VST",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SHELL",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SHELL",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "GRANNY",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "GRANNY",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "XST",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "XST",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SPK",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SPK",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "EXDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "EXDC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "MOSS",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "MOSS",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "PICOT",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "PICOT",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SOL",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SOL",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "TSS",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "TSS",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "TKS",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "TKS",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "TPS",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "TPS",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "TURN",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "TURN",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "JOIN",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "JOIN",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "FASTEN",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "FASTEN",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "WW",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "WW",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "DK",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "DK",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "CHUNKY",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "CHUNKY",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "GAUGE",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "GAUGE",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BLOCKING",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BLOCKING",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "REP",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "REP",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SP",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SP",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SK",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SK",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "TOG",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "TOG",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "BLS",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "BLS",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "HPL",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "HPL",
     "source_id": "cgoa"
   }
 ]
