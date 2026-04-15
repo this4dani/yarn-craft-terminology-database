@@ -2,264 +2,188 @@
 
 ## Overview
 
-The Yarn Craft Terminology Database API provides comprehensive access to crochet terminology, including stitch names, abbreviations, symbols, and **step-by-step instructions**. All data is sourced from curated Google Sheets and updated regularly.
+The Yarn Craft Terminology Database provides free, open access to yarn craft terminology across 8 fiber arts disciplines. All data is served as static JSON files via GitHub's CDN — no authentication required.
 
 ## Base URL
+
 ```
-https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/
-```
-
-## API Endpoints
-
-### 1. `terms.json` - Quick Reference
-**Purpose:** Lightweight list of all terms  
-**Use Case:** Fast loading, basic term lookups  
-**Size:** ~50KB
-
-```bash
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json
+https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/
 ```
 
-**Response Format:**
-```json
-[
-  {
-    "id": "SC",
-    "name_us": "Single Crochet",
-    "name_uk": "Double Crochet", 
-    "category": "Basic"
-  }
-]
-```
+## Data Files
 
-### 2. `glossary.json` - Complete Data
-**Purpose:** Full glossary with all details including instructions  
-**Use Case:** Applications needing complete information  
-**Size:** ~200KB
+| File | Description |
+|------|-------------|
+| `terms.json` | Core terminology records |
+| `craft_types.json` | 8 yarn craft disciplines |
+| `categories.json` | 25 term categories |
+| `sources.json` | Authority references |
+| `tags.json` | Searchable tags |
+| `term_tags.json` | Junction: terms ↔ tags |
+| `term_sources.json` | Junction: terms ↔ sources |
 
-```bash
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json
-```
+Schema definitions: `schemas/term.schema.json` ([JSON Schema draft-07](https://json-schema.org/))
 
-**Response Format:**
-```json
-{
-  "version": "1.0",
-  "last_updated": "2025-07-12",
-  "total_terms": 265,
-  "terms": [
-    {
-      "id": "SC",
-      "name_us": "Single Crochet",
-      "name_uk": "Double Crochet",
-      "abbreviation_us": "sc",
-      "abbreviation_uk": "dc",
-      "symbol": "×",
-      "category": "Basic",
-      "description": "The most basic crochet stitch",
-      "instruction": "Insert hook, yarn over, pull through (2 loops on hook), yarn over, pull through both loops",
-      "tags": ["basic", "foundation", "common"],
-      "difficulty": "Beginner",
-      "status": "Active"
-    }
-  ],
-  "search_index": ["single crochet", "double crochet", ...]
-}
-```
-
-### 3. `categories.json` - Organized by Category
-**Purpose:** Terms grouped by category (Basic, Advanced, Tools, etc.)  
-**Use Case:** Building category-based navigation  
-
-```bash
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/categories.json
-```
-
-**Response Format:**
-```json
-{
-  "categories": {
-    "Basic": 45,
-    "Advanced": 32,
-    "Tools": 18
-  },
-  "terms_by_category": {
-    "Basic": [
-      { "id": "SC", "name_us": "Single Crochet", ... }
-    ]
-  }
-}
-```
-
-### 4. `quiz.json` - Interactive Quizzes
-**Purpose:** Quiz questions generated from glossary data  
-**Use Case:** Educational apps, skill testing  
-
-```bash
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/quiz.json
-```
-
-**Response Format:**
-```json
-{
-  "total_packages": 4,
-  "packages": {
-    "beginner_pack": {
-      "name": "Beginner Crochet Quiz",
-      "total_questions": 20,
-      "questions": [
-        {
-          "id": "inst_SC",
-          "type": "instruction",
-          "question": "How do you make a Single Crochet?",
-          "answer": "Insert hook, yarn over, pull through...",
-          "points": 10
-        }
-      ]
-    }
-  }
-}
-```
-
-### 5. `api-info.json` - API Metadata
-**Purpose:** API information and usage statistics  
-**Use Case:** Discovering available endpoints and data  
-
-## Data Structure
+## Data Structures
 
 ### Term Object
-Every term contains these fields:
 
-| Field | Type | Description | Example |
-|-------|------|-------------|---------|
-| `id` | string | Unique identifier | "SC" |
-| `name_us` | string | US terminology | "Single Crochet" |
-| `name_uk` | string | UK terminology | "Double Crochet" |
-| `abbreviation_us` | string | US abbreviation | "sc" |
-| `abbreviation_uk` | string | UK abbreviation | "dc" |
-| `symbol` | string | Crochet chart symbol | "×" |
-| `category` | string | Term category | "Basic" |
-| `description` | string | Brief description | "Most basic stitch" |
-| `instruction` | string | **Step-by-step how-to** | "Insert hook, yarn over..." |
-| `tags` | array | Searchable tags | ["basic", "common"] |
-| `difficulty` | string | Skill level | "Beginner" |
-| `status` | string | Active/Deprecated | "Active" |
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `term_id` | string | Yes | Unique identifier (e.g., "SC") |
+| `entry_type` | string | Yes | One of: stitch, technique, tool, material, pattern-term |
+| `craft_type` | string | Yes | References `craft_types.craft_id` |
+| `category` | string | Yes | References `categories.category_id` |
+| `name_us` | string | Yes | Full US English name |
+| `name_uk` | string/null | No | Full UK English name if different |
+| `abbrev_us` | string/null | No | US abbreviation |
+| `abbrev_uk` | string/null | No | UK abbreviation |
+| `description` | string | Yes | Original definition |
+| `instruction` | string/null | No | Step-by-step instructions |
+| `difficulty` | integer | Yes | Skill level: 1 (beginner) to 5 (expert) |
+| `time_to_learn` | string/null | No | Estimated learning time |
+| `best_for` | string/null | No | Common project applications |
+| `common_mistakes` | string/null | No | Frequent errors |
+| `pro_tips` | string/null | No | Expert guidance |
+| `hook_sizes` | string/null | No | Recommended hook or needle sizes |
+| `left_handed_note` | string/null | No | Left-handed adaptation guidance |
+| `tags` | array | No | Array of tag IDs |
+| `sources` | array | No | Array of source IDs |
+| `status` | string | Yes | One of: active, draft, review |
 
-## Categories
+### Craft Type Object
 
-### Available Categories:
-- **Basic** - Fundamental stitches (SC, DC, HDC)
-- **Advanced** - Complex techniques (cables, bobbles)
-- **Tools** - Equipment and materials
-- **Techniques** - Methods and processes
-- **US_vs_UK** - Terminology differences
-- **Symbols** - Chart reading
+| Field | Type | Description |
+|-------|------|-------------|
+| `craft_id` | string | Unique identifier (e.g., "crochet") |
+| `name` | string | Display name |
+| `description` | string | Brief description of the discipline |
+
+### Category Object
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `category_id` | string | Unique identifier (e.g., "basic") |
+| `name` | string | Display name |
+| `description` | string | Category description |
+
+### Source Object
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `source_id` | string | Unique identifier (e.g., "cyc") |
+| `name` | string | Full source name |
+| `description` | string | Source description |
+
+### Tag Object
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `tag_id` | string | Unique identifier (e.g., "basic") |
+| `name` | string | Display name |
+
+### Junction Tables
+
+**term_tags.json** — Links terms to tags:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `term_id` | string | References `terms.term_id` |
+| `tag_id` | string | References `tags.tag_id` |
+
+**term_sources.json** — Links terms to authority sources:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `term_id` | string | References `terms.term_id` |
+| `source_id` | string | References `sources.source_id` |
 
 ## Usage Examples
 
-### JavaScript Fetch
+### JavaScript — Fetch All Terms
+
 ```javascript
-async function getCrochetTerms() {
-  const response = await fetch('https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json');
-  const data = await response.json();
-  return data.terms;
+const response = await fetch(
+  'https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/terms.json'
+);
+const terms = await response.json();
+
+// Find a specific term
+const sc = terms.find(t => t.term_id === 'SC');
+console.log(sc.name_us); // "Single Crochet"
+console.log(sc.name_uk); // "Double Crochet"
+```
+
+### JavaScript — Filter by Category
+
+```javascript
+const terms = await fetch(
+  'https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/terms.json'
+).then(r => r.json());
+
+const basicStitches = terms.filter(t => t.category === 'basic');
+```
+
+### JavaScript — Search Implementation
+
+```javascript
+function searchTerms(query, terms) {
+  const q = query.toLowerCase();
+  return terms.filter(term =>
+    term.name_us.toLowerCase().includes(q) ||
+    (term.name_uk && term.name_uk.toLowerCase().includes(q)) ||
+    term.tags.some(tag => tag.toLowerCase().includes(q))
+  );
 }
 ```
 
-### Python Requests
+### Python
+
 ```python
 import requests
 
-url = "https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json"
-response = requests.get(url)
-terms = response.json()
+url = "https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/terms.json"
+terms = requests.get(url).json()
+
+# Filter by entry type
+stitches = [t for t in terms if t['entry_type'] == 'stitch']
 ```
 
-### cURL with jq
+### cURL
+
 ```bash
-# Get all single crochet variations
-curl -s https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json | \
-  jq '.terms[] | select(.name_us | contains("Single"))'
+# Fetch all terms
+curl -s https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/terms.json | jq '.[0]'
+
+# Fetch craft types
+curl -s https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/data/craft_types.json | jq '.'
 ```
 
-## Features
+## Rate Limits and Usage
 
-### ✅ What's Included:
-- **265+ verified terms** from expert curation
-- **Step-by-step instructions** for major stitches
-- **US and UK terminology** differences
-- **Crochet symbols** for chart reading
-- **Difficulty ratings** for learning progression
-- **Searchable tags** for easy filtering
-- **Quiz system** with multiple difficulty levels
+**No authentication required.** This is a public dataset hosted on GitHub.
 
-### 🔄 Regular Updates:
-- Data sourced from Google Sheets
-- Updated as new terms are added
-- Version tracking for API changes
-
-## Integration Ideas
-
-### For Websites:
-- **Tooltip definitions** on hover over crochet terms
-- **Interactive glossaries** with search and filter
-- **Educational content** with embedded definitions
-
-### For Apps:
-- **Offline crochet dictionary** with full data
-- **Learning modules** with quiz integration
-- **Pattern readers** with automatic term lookup
-
-### For Developers:
-- **Browser extensions** for automatic term detection
-- **Plugin development** for blog platforms
-- **API mashups** with pattern databases
-
-## Rate Limits & Usage
-
-### No Authentication Required
-This is a **public, free API** hosted on GitHub.
-
-### Rate Limits:
 - GitHub raw file serving limits apply
-- Recommended: Cache responses for production use
-- Consider downloading JSON files for heavy usage
+- Cache responses for production use — data does not change frequently
+- For heavy usage, download JSON files locally
 
-### Best Practices:
-- **Cache responses** - Files don't change frequently
-- **Use appropriate endpoint** - Don't load full glossary for simple lookups
-- **Handle errors gracefully** - Network issues can occur
+## Best Practices
 
-## Support & Updates
+- Use `terms.json` for full term data
+- Cache responses — files update infrequently
+- Handle errors gracefully for network issues
+- Use the `status` field to filter for `active` terms in production
 
-### Data Issues:
-- Report via GitHub Issues on the repository
-- Email: this4dani@users.noreply.github.com
+## Support and Updates
 
-### API Changes:
-- Breaking changes will increment version number
-- Monitor repository for updates
-- Version field in JSON responses indicates data version
+- **Issues:** Report via [GitHub Issues](https://github.com/this4dani/yarn-craft-terminology-database/issues)
+- **Schema:** Validated against `schemas/term.schema.json`
+- **Updates:** Monitor the repository for changes
 
 ## License
 
-This API and data are provided under **CC BY-SA 4.0** for educational and commercial use.
+This data is provided under **CC BY-SA 4.0**.
 
-### Attribution:
-When using this API, please credit:
-- **Data Source:** Yarn Craft Terminology Database
-- **Repository:** https://github.com/this4dani/yarn-craft-terminology-database
+**Attribution:** When using this data, please credit the Yarn Craft Terminology Database.
 
----
-
-## Quick Start
-
-```bash
-# Test the API right now:
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/api-info.json
-
-# Get your first crochet term:
-curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json | head -20
-```
-
-
+**Repository:** [github.com/this4dani/yarn-craft-terminology-database](https://github.com/this4dani/yarn-craft-terminology-database)
