@@ -1,146 +1,914 @@
 [
   {
-    "tag_id": "basic",
-    "name": "Basic"
+    "tag_id": "3D",
+    "name": "3D"
   },
   {
-    "tag_id": "foundation",
-    "name": "Foundation"
+    "tag_id": "abandoned",
+    "name": "Abandoned"
   },
   {
-    "tag_id": "starting",
-    "name": "Starting"
+    "tag_id": "accent",
+    "name": "Accent"
   },
   {
-    "tag_id": "common",
-    "name": "Common"
+    "tag_id": "addiction",
+    "name": "Addiction"
   },
   {
-    "tag_id": "essential",
-    "name": "Essential"
+    "tag_id": "adjustable",
+    "name": "Adjustable"
   },
   {
     "tag_id": "advanced",
     "name": "Advanced"
   },
   {
-    "tag_id": "decorative",
-    "name": "Decorative"
-  },
-  {
-    "tag_id": "structural",
-    "name": "Structural"
-  },
-  {
-    "tag_id": "finishing",
-    "name": "Finishing"
-  },
-  {
-    "tag_id": "joining",
-    "name": "Joining"
-  },
-  {
-    "tag_id": "increase",
-    "name": "Increase"
-  },
-  {
-    "tag_id": "decrease",
-    "name": "Decrease"
-  },
-  {
-    "tag_id": "texture",
-    "name": "Texture"
-  },
-  {
-    "tag_id": "colorwork",
-    "name": "Colorwork"
-  },
-  {
-    "tag_id": "lace",
-    "name": "Lace"
-  },
-  {
-    "tag_id": "edging",
-    "name": "Edging"
-  },
-  {
-    "tag_id": "turning",
-    "name": "Turning"
-  },
-  {
-    "tag_id": "measurement",
-    "name": "Measurement"
-  },
-  {
-    "tag_id": "gauge",
-    "name": "Gauge"
-  },
-  {
-    "tag_id": "hook",
-    "name": "Hook"
-  },
-  {
-    "tag_id": "yarn",
-    "name": "Yarn"
-  },
-  {
-    "tag_id": "fiber",
-    "name": "Fiber"
-  },
-  {
-    "tag_id": "pattern-reading",
-    "name": "Pattern reading"
-  },
-  {
-    "tag_id": "abbreviation",
-    "name": "Abbreviation"
-  },
-  {
-    "tag_id": "symbol",
-    "name": "Symbol"
-  },
-  {
-    "tag_id": "us-uk",
-    "name": "US/UK terminology"
-  },
-  {
-    "tag_id": "left-handed",
-    "name": "Left-handed"
-  },
-  {
-    "tag_id": "beginner-friendly",
-    "name": "Beginner friendly"
-  },
-  {
-    "tag_id": "garment",
-    "name": "Garment"
+    "tag_id": "alternative",
+    "name": "Alternative"
   },
   {
     "tag_id": "amigurumi",
     "name": "Amigurumi"
   },
   {
-    "tag_id": "tunisian",
-    "name": "Tunisian"
+    "tag_id": "applied",
+    "name": "Applied"
   },
   {
-    "tag_id": "vintage",
-    "name": "Vintage"
+    "tag_id": "art",
+    "name": "Art"
+  },
+  {
+    "tag_id": "assembly",
+    "name": "Assembly"
+  },
+  {
+    "tag_id": "background",
+    "name": "Background"
+  },
+  {
+    "tag_id": "backwards",
+    "name": "Backwards"
+  },
+  {
+    "tag_id": "basic",
+    "name": "Basic"
+  },
+  {
+    "tag_id": "basketweave",
+    "name": "Basketweave"
+  },
+  {
+    "tag_id": "beads",
+    "name": "Beads"
+  },
+  {
+    "tag_id": "blanket",
+    "name": "Blanket"
+  },
+  {
+    "tag_id": "blending",
+    "name": "Blending"
+  },
+  {
+    "tag_id": "blocking",
+    "name": "Blocking"
+  },
+  {
+    "tag_id": "blocks",
+    "name": "Blocks"
+  },
+  {
+    "tag_id": "bobble",
+    "name": "Bobble"
+  },
+  {
+    "tag_id": "bulky",
+    "name": "Bulky"
+  },
+  {
+    "tag_id": "buttonhole",
+    "name": "Buttonhole"
+  },
+  {
+    "tag_id": "cable",
+    "name": "Cable"
+  },
+  {
+    "tag_id": "cables",
+    "name": "Cables"
+  },
+  {
+    "tag_id": "carried",
+    "name": "Carried"
+  },
+  {
+    "tag_id": "center-pull",
+    "name": "Center Pull"
+  },
+  {
+    "tag_id": "circular",
+    "name": "Circular"
+  },
+  {
+    "tag_id": "clean",
+    "name": "Clean"
+  },
+  {
+    "tag_id": "closure",
+    "name": "Closure"
+  },
+  {
+    "tag_id": "cluster",
+    "name": "Cluster"
+  },
+  {
+    "tag_id": "coil",
+    "name": "Coil"
+  },
+  {
+    "tag_id": "color",
+    "name": "Color"
+  },
+  {
+    "tag_id": "colorwork",
+    "name": "Colorwork"
+  },
+  {
+    "tag_id": "combination",
+    "name": "Combination"
+  },
+  {
+    "tag_id": "combining",
+    "name": "Combining"
+  },
+  {
+    "tag_id": "comfort",
+    "name": "Comfort"
+  },
+  {
+    "tag_id": "community",
+    "name": "Community"
+  },
+  {
+    "tag_id": "construction",
+    "name": "Construction"
+  },
+  {
+    "tag_id": "continuous",
+    "name": "Continuous"
+  },
+  {
+    "tag_id": "controlled-felting",
+    "name": "Controlled Felting"
+  },
+  {
+    "tag_id": "coral-reef",
+    "name": "Coral Reef"
+  },
+  {
+    "tag_id": "crocheter",
+    "name": "Crocheter"
+  },
+  {
+    "tag_id": "cutting",
+    "name": "Cutting"
+  },
+  {
+    "tag_id": "data-viz",
+    "name": "Data Viz"
+  },
+  {
+    "tag_id": "decoration",
+    "name": "Decoration"
+  },
+  {
+    "tag_id": "decorative",
+    "name": "Decorative"
+  },
+  {
+    "tag_id": "decrease",
+    "name": "Decrease"
+  },
+  {
+    "tag_id": "dense",
+    "name": "Dense"
+  },
+  {
+    "tag_id": "design",
+    "name": "Design"
+  },
+  {
+    "tag_id": "detail",
+    "name": "Detail"
+  },
+  {
+    "tag_id": "diagonal",
+    "name": "Diagonal"
+  },
+  {
+    "tag_id": "diagram",
+    "name": "Diagram"
+  },
+  {
+    "tag_id": "doilies",
+    "name": "Doilies"
+  },
+  {
+    "tag_id": "drape",
+    "name": "Drape"
+  },
+  {
+    "tag_id": "edge",
+    "name": "Edge"
+  },
+  {
+    "tag_id": "edges",
+    "name": "Edges"
+  },
+  {
+    "tag_id": "edging",
+    "name": "Edging"
+  },
+  {
+    "tag_id": "efficient",
+    "name": "Efficient"
+  },
+  {
+    "tag_id": "embellishment",
+    "name": "Embellishment"
+  },
+  {
+    "tag_id": "essential",
+    "name": "Essential"
+  },
+  {
+    "tag_id": "extra-thick",
+    "name": "Extra Thick"
+  },
+  {
+    "tag_id": "fabric",
+    "name": "Fabric"
+  },
+  {
+    "tag_id": "fan",
+    "name": "Fan"
+  },
+  {
+    "tag_id": "feature",
+    "name": "Feature"
+  },
+  {
+    "tag_id": "filet",
+    "name": "Filet"
+  },
+  {
+    "tag_id": "filled",
+    "name": "Filled"
+  },
+  {
+    "tag_id": "fine",
+    "name": "Fine"
+  },
+  {
+    "tag_id": "finished",
+    "name": "Finished"
+  },
+  {
+    "tag_id": "finishing",
+    "name": "Finishing"
+  },
+  {
+    "tag_id": "fit",
+    "name": "Fit"
+  },
+  {
+    "tag_id": "float",
+    "name": "Float"
+  },
+  {
+    "tag_id": "foundation",
+    "name": "Foundation"
+  },
+  {
+    "tag_id": "frustration",
+    "name": "Frustration"
+  },
+  {
+    "tag_id": "functional",
+    "name": "Functional"
+  },
+  {
+    "tag_id": "fundamental",
+    "name": "Fundamental"
+  },
+  {
+    "tag_id": "fur",
+    "name": "Fur"
+  },
+  {
+    "tag_id": "gamble",
+    "name": "Gamble"
+  },
+  {
+    "tag_id": "gap",
+    "name": "Gap"
+  },
+  {
+    "tag_id": "garment",
+    "name": "Garment"
+  },
+  {
+    "tag_id": "gathered",
+    "name": "Gathered"
+  },
+  {
+    "tag_id": "gentle",
+    "name": "Gentle"
+  },
+  {
+    "tag_id": "geometric",
+    "name": "Geometric"
+  },
+  {
+    "tag_id": "gradient",
+    "name": "Gradient"
+  },
+  {
+    "tag_id": "grid",
+    "name": "Grid"
+  },
+  {
+    "tag_id": "height",
+    "name": "Height"
+  },
+  {
+    "tag_id": "hexagon",
+    "name": "Hexagon"
+  },
+  {
+    "tag_id": "hook",
+    "name": "Hook"
+  },
+  {
+    "tag_id": "hot",
+    "name": "Hot"
+  },
+  {
+    "tag_id": "humor",
+    "name": "Humor"
+  },
+  {
+    "tag_id": "hybrid",
+    "name": "Hybrid"
+  },
+  {
+    "tag_id": "in-the-round",
+    "name": "In The Round"
+  },
+  {
+    "tag_id": "incomplete",
+    "name": "Incomplete"
+  },
+  {
+    "tag_id": "increase",
+    "name": "Increase"
+  },
+  {
+    "tag_id": "information",
+    "name": "Information"
+  },
+  {
+    "tag_id": "inspiration",
+    "name": "Inspiration"
+  },
+  {
+    "tag_id": "instruction",
+    "name": "Instruction"
+  },
+  {
+    "tag_id": "intermediate",
+    "name": "Intermediate"
+  },
+  {
+    "tag_id": "invisible",
+    "name": "Invisible"
+  },
+  {
+    "tag_id": "irish",
+    "name": "Irish"
+  },
+  {
+    "tag_id": "jewelry",
+    "name": "Jewelry"
+  },
+  {
+    "tag_id": "join",
+    "name": "Join"
+  },
+  {
+    "tag_id": "joining",
+    "name": "Joining"
+  },
+  {
+    "tag_id": "knit-look",
+    "name": "Knit Look"
+  },
+  {
+    "tag_id": "label",
+    "name": "Label"
+  },
+  {
+    "tag_id": "lace",
+    "name": "Lace"
+  },
+  {
+    "tag_id": "light",
+    "name": "Light"
+  },
+  {
+    "tag_id": "marker",
+    "name": "Marker"
+  },
+  {
+    "tag_id": "marking",
+    "name": "Marking"
+  },
+  {
+    "tag_id": "matching",
+    "name": "Matching"
+  },
+  {
+    "tag_id": "mathematical",
+    "name": "Mathematical"
+  },
+  {
+    "tag_id": "measurement",
+    "name": "Measurement"
+  },
+  {
+    "tag_id": "measurements",
+    "name": "Measurements"
+  },
+  {
+    "tag_id": "measuring",
+    "name": "Measuring"
+  },
+  {
+    "tag_id": "medium",
+    "name": "Medium"
+  },
+  {
+    "tag_id": "mirror",
+    "name": "Mirror"
+  },
+  {
+    "tag_id": "mistake",
+    "name": "Mistake"
+  },
+  {
+    "tag_id": "mixed-media",
+    "name": "Mixed Media"
   },
   {
     "tag_id": "modern",
     "name": "Modern"
   },
   {
-    "tag_id": "3d",
-    "name": "3D/sculptural"
+    "tag_id": "modular",
+    "name": "Modular"
   },
   {
-    "tag_id": "flat-work",
-    "name": "Flat work"
+    "tag_id": "motif",
+    "name": "Motif"
   },
   {
-    "tag_id": "in-the-round",
-    "name": "In the round"
+    "tag_id": "motifs",
+    "name": "Motifs"
+  },
+  {
+    "tag_id": "motivation",
+    "name": "Motivation"
+  },
+  {
+    "tag_id": "moveable",
+    "name": "Moveable"
+  },
+  {
+    "tag_id": "multi-task",
+    "name": "Multi Task"
+  },
+  {
+    "tag_id": "neat",
+    "name": "Neat"
+  },
+  {
+    "tag_id": "needle",
+    "name": "Needle"
+  },
+  {
+    "tag_id": "no-buy",
+    "name": "No Buy"
+  },
+  {
+    "tag_id": "open",
+    "name": "Open"
+  },
+  {
+    "tag_id": "opening",
+    "name": "Opening"
+  },
+  {
+    "tag_id": "openwork",
+    "name": "Openwork"
+  },
+  {
+    "tag_id": "packaging",
+    "name": "Packaging"
+  },
+  {
+    "tag_id": "pattern",
+    "name": "Pattern"
+  },
+  {
+    "tag_id": "pattern-name",
+    "name": "Pattern Name"
+  },
+  {
+    "tag_id": "pattern-reading",
+    "name": "Pattern Reading"
+  },
+  {
+    "tag_id": "picture",
+    "name": "Picture"
+  },
+  {
+    "tag_id": "placement",
+    "name": "Placement"
+  },
+  {
+    "tag_id": "planned",
+    "name": "Planned"
+  },
+  {
+    "tag_id": "planning",
+    "name": "Planning"
+  },
+  {
+    "tag_id": "portable",
+    "name": "Portable"
+  },
+  {
+    "tag_id": "post-stitch",
+    "name": "Post Stitch"
+  },
+  {
+    "tag_id": "pride",
+    "name": "Pride"
+  },
+  {
+    "tag_id": "problem",
+    "name": "Problem"
+  },
+  {
+    "tag_id": "professional",
+    "name": "Professional"
+  },
+  {
+    "tag_id": "project",
+    "name": "Project"
+  },
+  {
+    "tag_id": "project-status",
+    "name": "Project Status"
+  },
+  {
+    "tag_id": "proportion",
+    "name": "Proportion"
+  },
+  {
+    "tag_id": "provisional",
+    "name": "Provisional"
+  },
+  {
+    "tag_id": "puff",
+    "name": "Puff"
+  },
+  {
+    "tag_id": "raised",
+    "name": "Raised"
+  },
+  {
+    "tag_id": "redo",
+    "name": "Redo"
+  },
+  {
+    "tag_id": "regional",
+    "name": "Regional"
+  },
+  {
+    "tag_id": "repeat",
+    "name": "Repeat"
+  },
+  {
+    "tag_id": "repeating",
+    "name": "Repeating"
+  },
+  {
+    "tag_id": "reverse",
+    "name": "Reverse"
+  },
+  {
+    "tag_id": "ribbon",
+    "name": "Ribbon"
+  },
+  {
+    "tag_id": "romantic",
+    "name": "Romantic"
+  },
+  {
+    "tag_id": "rounds",
+    "name": "Rounds"
+  },
+  {
+    "tag_id": "rows",
+    "name": "Rows"
+  },
+  {
+    "tag_id": "scales",
+    "name": "Scales"
+  },
+  {
+    "tag_id": "scalloped",
+    "name": "Scalloped"
+  },
+  {
+    "tag_id": "sculptural",
+    "name": "Sculptural"
+  },
+  {
+    "tag_id": "sculpture",
+    "name": "Sculpture"
+  },
+  {
+    "tag_id": "seaming",
+    "name": "Seaming"
+  },
+  {
+    "tag_id": "seamless",
+    "name": "Seamless"
+  },
+  {
+    "tag_id": "sequence",
+    "name": "Sequence"
+  },
+  {
+    "tag_id": "sewing",
+    "name": "Sewing"
+  },
+  {
+    "tag_id": "shaping",
+    "name": "Shaping"
+  },
+  {
+    "tag_id": "shrinking",
+    "name": "Shrinking"
+  },
+  {
+    "tag_id": "sides",
+    "name": "Sides"
+  },
+  {
+    "tag_id": "simple",
+    "name": "Simple"
+  },
+  {
+    "tag_id": "sizing",
+    "name": "Sizing"
+  },
+  {
+    "tag_id": "skein",
+    "name": "Skein"
+  },
+  {
+    "tag_id": "slang",
+    "name": "Slang"
+  },
+  {
+    "tag_id": "sleeve",
+    "name": "Sleeve"
+  },
+  {
+    "tag_id": "smooth",
+    "name": "Smooth"
+  },
+  {
+    "tag_id": "social",
+    "name": "Social"
+  },
+  {
+    "tag_id": "sparkle",
+    "name": "Sparkle"
+  },
+  {
+    "tag_id": "specialty",
+    "name": "Specialty"
+  },
+  {
+    "tag_id": "specialty-yarn",
+    "name": "Specialty Yarn"
+  },
+  {
+    "tag_id": "spike",
+    "name": "Spike"
+  },
+  {
+    "tag_id": "square",
+    "name": "Square"
+  },
+  {
+    "tag_id": "starting",
+    "name": "Starting"
+  },
+  {
+    "tag_id": "stash",
+    "name": "Stash"
+  },
+  {
+    "tag_id": "stashbuster",
+    "name": "Stashbuster"
+  },
+  {
+    "tag_id": "stiffening",
+    "name": "Stiffening"
+  },
+  {
+    "tag_id": "storage",
+    "name": "Storage"
+  },
+  {
+    "tag_id": "stranded",
+    "name": "Stranded"
+  },
+  {
+    "tag_id": "strength",
+    "name": "Strength"
+  },
+  {
+    "tag_id": "stress-point",
+    "name": "Stress Point"
+  },
+  {
+    "tag_id": "stretchy",
+    "name": "Stretchy"
+  },
+  {
+    "tag_id": "strip",
+    "name": "Strip"
+  },
+  {
+    "tag_id": "stripes",
+    "name": "Stripes"
+  },
+  {
+    "tag_id": "striping",
+    "name": "Striping"
+  },
+  {
+    "tag_id": "strips",
+    "name": "Strips"
+  },
+  {
+    "tag_id": "structure",
+    "name": "Structure"
+  },
+  {
+    "tag_id": "structured",
+    "name": "Structured"
+  },
+  {
+    "tag_id": "style",
+    "name": "Style"
+  },
+  {
+    "tag_id": "surface",
+    "name": "Surface"
+  },
+  {
+    "tag_id": "tall",
+    "name": "Tall"
+  },
+  {
+    "tag_id": "technique",
+    "name": "Technique"
+  },
+  {
+    "tag_id": "tension",
+    "name": "Tension"
+  },
+  {
+    "tag_id": "texture",
+    "name": "Texture"
+  },
+  {
+    "tag_id": "textured",
+    "name": "Textured"
+  },
+  {
+    "tag_id": "thick",
+    "name": "Thick"
+  },
+  {
+    "tag_id": "thread",
+    "name": "Thread"
+  },
+  {
+    "tag_id": "tool",
+    "name": "Tool"
+  },
+  {
+    "tag_id": "tracking",
+    "name": "Tracking"
+  },
+  {
+    "tag_id": "traditional",
+    "name": "Traditional"
+  },
+  {
+    "tag_id": "travel",
+    "name": "Travel"
+  },
+  {
+    "tag_id": "troubleshooting",
+    "name": "Troubleshooting"
+  },
+  {
+    "tag_id": "tunisian",
+    "name": "Tunisian"
+  },
+  {
+    "tag_id": "twist",
+    "name": "Twist"
+  },
+  {
+    "tag_id": "ultra-fine",
+    "name": "Ultra Fine"
+  },
+  {
+    "tag_id": "undo",
+    "name": "Undo"
+  },
+  {
+    "tag_id": "unfinished",
+    "name": "Unfinished"
+  },
+  {
+    "tag_id": "units",
+    "name": "Units"
+  },
+  {
+    "tag_id": "variegated",
+    "name": "Variegated"
+  },
+  {
+    "tag_id": "vintage",
+    "name": "Vintage"
+  },
+  {
+    "tag_id": "weight",
+    "name": "Weight"
+  },
+  {
+    "tag_id": "wip",
+    "name": "Wip"
+  },
+  {
+    "tag_id": "wool",
+    "name": "Wool"
+  },
+  {
+    "tag_id": "wound",
+    "name": "Wound"
+  },
+  {
+    "tag_id": "woven",
+    "name": "Woven"
+  },
+  {
+    "tag_id": "yarn",
+    "name": "Yarn"
+  },
+  {
+    "tag_id": "yarn-shortage",
+    "name": "Yarn Shortage"
+  },
+  {
+    "tag_id": "yarn-usage",
+    "name": "Yarn Usage"
+  },
+  {
+    "tag_id": "year-long",
+    "name": "Year Long"
   }
 ]
