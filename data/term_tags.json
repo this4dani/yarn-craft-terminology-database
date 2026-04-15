@@ -20,35 +20,2987 @@
     "tag_id": "foundation"
   },
   {
-    "term_id": "CH",
+    "term_id": "SLST",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "SLST",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "SLST",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "SC",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "HDC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "HDC",
+    "tag_id": "height"
+  },
+  {
+    "term_id": "DC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "DC",
+    "tag_id": "height"
+  },
+  {
+    "term_id": "DC",
+    "tag_id": "drape"
+  },
+  {
+    "term_id": "TR",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "TR",
+    "tag_id": "tall"
+  },
+  {
+    "term_id": "TR",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "INC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "INC",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "INC",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "DEC",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "DEC",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "DEC",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "SC2TOG",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "SC2TOG",
+    "tag_id": "decrease"
+  },
+  {
+    "term_id": "SC2TOG",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "DC2TOG",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "DC2TOG",
+    "tag_id": "decrease"
+  },
+  {
+    "term_id": "DC2TOG",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "INVDEC",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "INVDEC",
+    "tag_id": "decrease"
+  },
+  {
+    "term_id": "INVDEC",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "MR",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "MR",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "MR",
+    "tag_id": "in-the-round"
+  },
+  {
+    "term_id": "FSC",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "FSC",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "FSC",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "FHDC",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "FHDC",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "FHDC",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "BLO",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "BLO",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "BLO",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "FLO",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "FLO",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "FLO",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "FPDC",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "FPDC",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "FPDC",
+    "tag_id": "post-stitch"
+  },
+  {
+    "term_id": "BPDC",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "BPDC",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BPDC",
+    "tag_id": "post-stitch"
+  },
+  {
+    "term_id": "FPTR",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "FPTR",
+    "tag_id": "post-stitch"
+  },
+  {
+    "term_id": "FPTR",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BPTR",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "BPTR",
+    "tag_id": "post-stitch"
+  },
+  {
+    "term_id": "BPTR",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "POP",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "POP",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "POP",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "BOBBLE",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "BOBBLE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BOBBLE",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "PUFF",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "PUFF",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "PUFF",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "CL",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "CL",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "CL",
+    "tag_id": "combination"
+  },
+  {
+    "term_id": "VST",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "VST",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "VST",
+    "tag_id": "openwork"
+  },
+  {
+    "term_id": "SHELL",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "SHELL",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "SHELL",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "GRANNY",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "GRANNY",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "GRANNY",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "XST",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "XST",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "XST",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "SPK",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "SPK",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "SPK",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "EXDC",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "EXDC",
+    "tag_id": "height"
+  },
+  {
+    "term_id": "EXDC",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "MOSS",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "MOSS",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "MOSS",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "PICOT",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "PICOT",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "PICOT",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "SOL",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "SOL",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "SOL",
+    "tag_id": "openwork"
+  },
+  {
+    "term_id": "TSS",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "TSS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TSS",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TKS",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "TKS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TKS",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TPS",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "TPS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TPS",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "TURN",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "TURN",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TURN",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "JOIN",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "JOIN",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "JOIN",
+    "tag_id": "in-the-round"
+  },
+  {
+    "term_id": "FASTEN",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "FASTEN",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "FASTEN",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "WW",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "WW",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "WW",
+    "tag_id": "medium"
+  },
+  {
+    "term_id": "DK",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "DK",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "DK",
+    "tag_id": "light"
+  },
+  {
+    "term_id": "CHUNKY",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "CHUNKY",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "CHUNKY",
+    "tag_id": "bulky"
+  },
+  {
+    "term_id": "GAUGE",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "GAUGE",
+    "tag_id": "measurement"
+  },
+  {
+    "term_id": "GAUGE",
+    "tag_id": "sizing"
+  },
+  {
+    "term_id": "BLOCKING",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "BLOCKING",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "BLOCKING",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "REP",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "REP",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "REP",
+    "tag_id": "repeat"
+  },
+  {
+    "term_id": "SP",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "SP",
+    "tag_id": "placement"
+  },
+  {
+    "term_id": "SP",
+    "tag_id": "gap"
+  },
+  {
+    "term_id": "SK",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "SK",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "SK",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "TOG",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TOG",
+    "tag_id": "decrease"
+  },
+  {
+    "term_id": "TOG",
+    "tag_id": "combining"
+  },
+  {
+    "term_id": "BLS",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "BLS",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "BLS",
+    "tag_id": "openwork"
+  },
+  {
+    "term_id": "HPL",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "HPL",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "HPL",
+    "tag_id": "strip"
+  },
+  {
+    "term_id": "DTR",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "DTR",
+    "tag_id": "tall"
+  },
+  {
+    "term_id": "DTR",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "TRTR",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "TRTR",
+    "tag_id": "tall"
+  },
+  {
+    "term_id": "TRTR",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "YO",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "YO",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "YO",
+    "tag_id": "fundamental"
+  },
+  {
+    "term_id": "LOOP",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "LOOP",
+    "tag_id": "fundamental"
+  },
+  {
+    "term_id": "BEG",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "BEG",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "CONT",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "CONT",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "RND",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "RND",
+    "tag_id": "rounds"
+  },
+  {
+    "term_id": "ROW",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "ROW",
+    "tag_id": "rows"
+  },
+  {
+    "term_id": "WEAVE",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "WEAVE",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "SEAM",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "SEAM",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "SEAM",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "RS",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "RS",
+    "tag_id": "sides"
+  },
+  {
+    "term_id": "WS",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "WS",
+    "tag_id": "sides"
+  },
+  {
+    "term_id": "PM",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "PM",
+    "tag_id": "marking"
+  },
+  {
+    "term_id": "SM",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "SM",
+    "tag_id": "marking"
+  },
+  {
+    "term_id": "M1",
+    "tag_id": "increase"
+  },
+  {
+    "term_id": "M1",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "BO",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "BO",
+    "tag_id": "edges"
+  },
+  {
+    "term_id": "TFS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TFS",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "TFS",
+    "tag_id": "dense"
+  },
+  {
+    "term_id": "TRS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TRS",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "TRS",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "TSS2TOG",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TSS2TOG",
+    "tag_id": "decrease"
+  },
+  {
+    "term_id": "TSS2TOG",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "TINC",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TINC",
+    "tag_id": "increase"
+  },
+  {
+    "term_id": "TINC",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "TBO",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TBO",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "TBO",
+    "tag_id": "edge"
+  },
+  {
+    "term_id": "TCABLE",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TCABLE",
+    "tag_id": "cable"
+  },
+  {
+    "term_id": "TCABLE",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "TENTRELAC",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TENTRELAC",
+    "tag_id": "modular"
+  },
+  {
+    "term_id": "TENTRELAC",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "FWD-PASS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "FWD-PASS",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "FWD-PASS",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "RTN-PASS",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "RTN-PASS",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "RTN-PASS",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "TFLO",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TFLO",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TFLO",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "TBLO",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TBLO",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "TBLO",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "TCOLOR",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "TCOLOR",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "TCOLOR",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "JOGLESS",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "JOGLESS",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "JOGLESS",
+    "tag_id": "seamless"
+  },
+  {
+    "term_id": "AMIR",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "AMIR",
+    "tag_id": "starting"
+  },
+  {
+    "term_id": "AMIR",
+    "tag_id": "adjustable"
+  },
+  {
+    "term_id": "STUFFING",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "STUFFING",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "STUFFING",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "CLOSE",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "CLOSE",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "CLOSE",
+    "tag_id": "sewing"
+  },
+  {
+    "term_id": "SPHERE",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "SPHERE",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "SPHERE",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "OVAL",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "OVAL",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "OVAL",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "CONE",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "CONE",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "CONE",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "CYLINDER",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "CYLINDER",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "CYLINDER",
+    "tag_id": "3D"
+  },
+  {
+    "term_id": "PINCH",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "PINCH",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "PINCH",
+    "tag_id": "detail"
+  },
+  {
+    "term_id": "EMB",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "EMB",
+    "tag_id": "decoration"
+  },
+  {
+    "term_id": "EMB",
+    "tag_id": "detail"
+  },
+  {
+    "term_id": "JOINT",
+    "tag_id": "amigurumi"
+  },
+  {
+    "term_id": "JOINT",
+    "tag_id": "moveable"
+  },
+  {
+    "term_id": "JOINT",
+    "tag_id": "assembly"
+  },
+  {
+    "term_id": "C2C",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "C2C",
+    "tag_id": "diagonal"
+  },
+  {
+    "term_id": "C2C",
+    "tag_id": "blanket"
+  },
+  {
+    "term_id": "TEMPBLANKET",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "TEMPBLANKET",
+    "tag_id": "data-viz"
+  },
+  {
+    "term_id": "TEMPBLANKET",
+    "tag_id": "year-long"
+  },
+  {
+    "term_id": "GRAPHGAN",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "GRAPHGAN",
+    "tag_id": "picture"
+  },
+  {
+    "term_id": "GRAPHGAN",
+    "tag_id": "blanket"
+  },
+  {
+    "term_id": "MANDALA",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "MANDALA",
+    "tag_id": "circular"
+  },
+  {
+    "term_id": "MANDALA",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "VIRUS",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "VIRUS",
+    "tag_id": "pattern-name"
+  },
+  {
+    "term_id": "VIRUS",
+    "tag_id": "textured"
+  },
+  {
+    "term_id": "OMBRE",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "OMBRE",
+    "tag_id": "color"
+  },
+  {
+    "term_id": "OMBRE",
+    "tag_id": "gradient"
+  },
+  {
+    "term_id": "POOLING",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "POOLING",
+    "tag_id": "variegated"
+  },
+  {
+    "term_id": "POOLING",
+    "tag_id": "planned"
+  },
+  {
+    "term_id": "MOSAIC",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "MOSAIC",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "MOSAIC",
+    "tag_id": "geometric"
+  },
+  {
+    "term_id": "OVERLAY",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "OVERLAY",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "OVERLAY",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "WAFFLE",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "WAFFLE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "WAFFLE",
+    "tag_id": "thick"
+  },
+  {
+    "term_id": "WIP",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "WIP",
+    "tag_id": "project-status"
+  },
+  {
+    "term_id": "WIP",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "FROG",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "FROG",
+    "tag_id": "mistake"
+  },
+  {
+    "term_id": "FROG",
+    "tag_id": "redo"
+  },
+  {
+    "term_id": "YARN-DIET",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "YARN-DIET",
+    "tag_id": "stash"
+  },
+  {
+    "term_id": "YARN-DIET",
+    "tag_id": "no-buy"
+  },
+  {
+    "term_id": "SCRAP-GHAN",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "SCRAP-GHAN",
+    "tag_id": "stashbuster"
+  },
+  {
+    "term_id": "SCRAP-GHAN",
+    "tag_id": "blanket"
+  },
+  {
+    "term_id": "IRISH-ROSE",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "IRISH-ROSE",
+    "tag_id": "irish"
+  },
+  {
+    "term_id": "IRISH-ROSE",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "CLONES",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "CLONES",
+    "tag_id": "irish"
+  },
+  {
+    "term_id": "CLONES",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "PADDED-CORD",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "PADDED-CORD",
+    "tag_id": "irish"
+  },
+  {
+    "term_id": "PADDED-CORD",
+    "tag_id": "raised"
+  },
+  {
+    "term_id": "MESH",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "MESH",
+    "tag_id": "background"
+  },
+  {
+    "term_id": "MESH",
+    "tag_id": "openwork"
+  },
+  {
+    "term_id": "FILET",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "FILET",
+    "tag_id": "filet"
+  },
+  {
+    "term_id": "FILET",
+    "tag_id": "grid"
+  },
+  {
+    "term_id": "BLOCK",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "BLOCK",
+    "tag_id": "filet"
+  },
+  {
+    "term_id": "BLOCK",
+    "tag_id": "filled"
+  },
+  {
+    "term_id": "SPACE",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "SPACE",
+    "tag_id": "filet"
+  },
+  {
+    "term_id": "SPACE",
+    "tag_id": "open"
+  },
+  {
+    "term_id": "LACET",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "LACET",
+    "tag_id": "filet"
+  },
+  {
+    "term_id": "LACET",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "BAR",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "BAR",
+    "tag_id": "filet"
+  },
+  {
+    "term_id": "BAR",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "STEEL",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "STEEL",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "STEEL",
+    "tag_id": "thread"
+  },
+  {
+    "term_id": "THREAD-JOIN",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "THREAD-JOIN",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "THREAD-JOIN",
+    "tag_id": "invisible"
+  },
+  {
+    "term_id": "WHIP",
+    "tag_id": "seaming"
+  },
+  {
+    "term_id": "WHIP",
+    "tag_id": "basic"
+  },
+  {
+    "term_id": "WHIP",
+    "tag_id": "sewing"
+  },
+  {
+    "term_id": "MATTRESS",
+    "tag_id": "seaming"
+  },
+  {
+    "term_id": "MATTRESS",
+    "tag_id": "invisible"
+  },
+  {
+    "term_id": "MATTRESS",
+    "tag_id": "professional"
+  },
+  {
+    "term_id": "CROCHET-SEAM",
+    "tag_id": "seaming"
+  },
+  {
+    "term_id": "CROCHET-SEAM",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "CROCHET-SEAM",
+    "tag_id": "join"
+  },
+  {
+    "term_id": "FLAT-JOIN",
+    "tag_id": "seaming"
+  },
+  {
+    "term_id": "FLAT-JOIN",
+    "tag_id": "motifs"
+  },
+  {
+    "term_id": "FLAT-JOIN",
+    "tag_id": "smooth"
+  },
+  {
+    "term_id": "JAYG",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "JAYG",
+    "tag_id": "continuous"
+  },
+  {
+    "term_id": "JAYG",
+    "tag_id": "efficient"
+  },
+  {
+    "term_id": "CRAB",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "CRAB",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "CRAB",
+    "tag_id": "reverse"
+  },
+  {
+    "term_id": "SHELL-EDGE",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "SHELL-EDGE",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "SHELL-EDGE",
+    "tag_id": "scalloped"
+  },
+  {
+    "term_id": "RUFFLE",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "RUFFLE",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "RUFFLE",
+    "tag_id": "gathered"
+  },
+  {
+    "term_id": "BLANKET-ST",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "BLANKET-ST",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "BLANKET-ST",
+    "tag_id": "neat"
+  },
+  {
+    "term_id": "BUTTON-LOOP",
+    "tag_id": "closure"
+  },
+  {
+    "term_id": "BUTTON-LOOP",
+    "tag_id": "buttonhole"
+  },
+  {
+    "term_id": "BUTTON-LOOP",
+    "tag_id": "simple"
+  },
+  {
+    "term_id": "BUTTONHOLE",
+    "tag_id": "closure"
+  },
+  {
+    "term_id": "BUTTONHOLE",
+    "tag_id": "opening"
+  },
+  {
+    "term_id": "BUTTONHOLE",
+    "tag_id": "structured"
+  },
+  {
+    "term_id": "POCKET",
+    "tag_id": "feature"
+  },
+  {
+    "term_id": "POCKET",
+    "tag_id": "functional"
+  },
+  {
+    "term_id": "POCKET",
+    "tag_id": "applied"
+  },
+  {
+    "term_id": "ZIPPER",
+    "tag_id": "closure"
+  },
+  {
+    "term_id": "ZIPPER",
+    "tag_id": "sewing"
+  },
+  {
+    "term_id": "ZIPPER",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "LINING",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "LINING",
+    "tag_id": "fabric"
+  },
+  {
+    "term_id": "LINING",
+    "tag_id": "professional"
+  },
+  {
+    "term_id": "REINFORCE",
+    "tag_id": "structure"
+  },
+  {
+    "term_id": "REINFORCE",
+    "tag_id": "strength"
+  },
+  {
+    "term_id": "REINFORCE",
+    "tag_id": "stress-point"
+  },
+  {
+    "term_id": "INTARSIA",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "INTARSIA",
+    "tag_id": "blocks"
+  },
+  {
+    "term_id": "INTARSIA",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "FAIRISLE",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "FAIRISLE",
+    "tag_id": "stranded"
+  },
+  {
+    "term_id": "FAIRISLE",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "TAPESTRY",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "TAPESTRY",
+    "tag_id": "carried"
+  },
+  {
+    "term_id": "TAPESTRY",
+    "tag_id": "picture"
+  },
+  {
+    "term_id": "SPIKE-COLOR",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "SPIKE-COLOR",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "SPIKE-COLOR",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "PERFECT-CHANGE",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "PERFECT-CHANGE",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "PERFECT-CHANGE",
+    "tag_id": "clean"
+  },
+  {
+    "term_id": "CARRIED",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "CARRIED",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "CARRIED",
+    "tag_id": "float"
+  },
+  {
+    "term_id": "CUT-JOIN",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "CUT-JOIN",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "CUT-JOIN",
+    "tag_id": "clean"
+  },
+  {
+    "term_id": "PLANNED-POOL",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "PLANNED-POOL",
+    "tag_id": "variegated"
+  },
+  {
+    "term_id": "PLANNED-POOL",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "JOGLESS-STRIPE",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "JOGLESS-STRIPE",
+    "tag_id": "stripes"
+  },
+  {
+    "term_id": "JOGLESS-STRIPE",
+    "tag_id": "seamless"
+  },
+  {
+    "term_id": "GRADIENT",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "GRADIENT",
+    "tag_id": "blending"
+  },
+  {
+    "term_id": "GRADIENT",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "MULTIPLE",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "MULTIPLE",
+    "tag_id": "repeat"
+  },
+  {
+    "term_id": "MULTIPLE",
+    "tag_id": "planning"
+  },
+  {
+    "term_id": "GAUGE-SWATCH",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "GAUGE-SWATCH",
+    "tag_id": "measuring"
+  },
+  {
+    "term_id": "GAUGE-SWATCH",
     "tag_id": "essential"
   },
   {
-    "term_id": "SC",
-    "tag_id": "basic"
+    "term_id": "SCHEMATIC",
+    "tag_id": "pattern-reading"
   },
   {
-    "term_id": "SC",
-    "tag_id": "common"
+    "term_id": "SCHEMATIC",
+    "tag_id": "diagram"
   },
   {
-    "term_id": "SC",
-    "tag_id": "beginner-friendly"
+    "term_id": "SCHEMATIC",
+    "tag_id": "measurements"
   },
   {
-    "term_id": "DC",
-    "tag_id": "basic"
+    "term_id": "EASE",
+    "tag_id": "pattern-reading"
   },
   {
-    "term_id": "DC",
-    "tag_id": "common"
+    "term_id": "EASE",
+    "tag_id": "fit"
   },
   {
-    "term_id": "HDC",
-    "tag_id": "basic"
+    "term_id": "EASE",
+    "tag_id": "garment"
   },
   {
-    "term_id": "HDC",
-    "tag_id": "common"
+    "term_id": "REPEAT-FROM",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "REPEAT-FROM",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "REPEAT-FROM",
+    "tag_id": "repeat"
+  },
+  {
+    "term_id": "WORK-EVEN",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "WORK-EVEN",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "WORK-EVEN",
+    "tag_id": "rows"
+  },
+  {
+    "term_id": "AT-SAME-TIME",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "AT-SAME-TIME",
+    "tag_id": "instruction"
+  },
+  {
+    "term_id": "AT-SAME-TIME",
+    "tag_id": "multi-task"
+  },
+  {
+    "term_id": "REVERSE-SHAPING",
+    "tag_id": "pattern-reading"
+  },
+  {
+    "term_id": "REVERSE-SHAPING",
+    "tag_id": "mirror"
+  },
+  {
+    "term_id": "REVERSE-SHAPING",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "FINGERING",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "FINGERING",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "FINGERING",
+    "tag_id": "fine"
+  },
+  {
+    "term_id": "SPORT",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "SPORT",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "SPORT",
+    "tag_id": "light"
+  },
+  {
+    "term_id": "BULKY",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "BULKY",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "BULKY",
+    "tag_id": "thick"
+  },
+  {
+    "term_id": "SUPER-BULKY",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "SUPER-BULKY",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "SUPER-BULKY",
+    "tag_id": "extra-thick"
+  },
+  {
+    "term_id": "LACE-WT",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "LACE-WT",
+    "tag_id": "weight"
+  },
+  {
+    "term_id": "LACE-WT",
+    "tag_id": "ultra-fine"
+  },
+  {
+    "term_id": "PLY",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "PLY",
+    "tag_id": "structure"
+  },
+  {
+    "term_id": "PLY",
+    "tag_id": "twist"
+  },
+  {
+    "term_id": "HANK",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "HANK",
+    "tag_id": "packaging"
+  },
+  {
+    "term_id": "HANK",
+    "tag_id": "skein"
+  },
+  {
+    "term_id": "CAKE",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "CAKE",
+    "tag_id": "wound"
+  },
+  {
+    "term_id": "CAKE",
+    "tag_id": "center-pull"
+  },
+  {
+    "term_id": "BALL-BAND",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "BALL-BAND",
+    "tag_id": "label"
+  },
+  {
+    "term_id": "BALL-BAND",
+    "tag_id": "information"
+  },
+  {
+    "term_id": "DYE-LOT",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "DYE-LOT",
+    "tag_id": "color"
+  },
+  {
+    "term_id": "DYE-LOT",
+    "tag_id": "matching"
+  },
+  {
+    "term_id": "PINEAPPLE",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "PINEAPPLE",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "PINEAPPLE",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "PEACOCK",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "PEACOCK",
+    "tag_id": "fan"
+  },
+  {
+    "term_id": "PEACOCK",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "LOVERS-KNOT",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "LOVERS-KNOT",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "LOVERS-KNOT",
+    "tag_id": "romantic"
+  },
+  {
+    "term_id": "STAR-ST",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "STAR-ST",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "STAR-ST",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "CATHERINE-WHEEL",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "CATHERINE-WHEEL",
+    "tag_id": "circular"
+  },
+  {
+    "term_id": "CATHERINE-WHEEL",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "BAVARIAN",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "BAVARIAN",
+    "tag_id": "square"
+  },
+  {
+    "term_id": "BAVARIAN",
+    "tag_id": "textured"
+  },
+  {
+    "term_id": "BRUGES",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "BRUGES",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "BRUGES",
+    "tag_id": "ribbon"
+  },
+  {
+    "term_id": "BULLION",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "BULLION",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BULLION",
+    "tag_id": "coil"
+  },
+  {
+    "term_id": "INLINE",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "INLINE",
+    "tag_id": "hook"
+  },
+  {
+    "term_id": "INLINE",
+    "tag_id": "style"
+  },
+  {
+    "term_id": "TAPERED",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "TAPERED",
+    "tag_id": "hook"
+  },
+  {
+    "term_id": "TAPERED",
+    "tag_id": "style"
+  },
+  {
+    "term_id": "ERGONOMIC",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "ERGONOMIC",
+    "tag_id": "hook"
+  },
+  {
+    "term_id": "ERGONOMIC",
+    "tag_id": "comfort"
+  },
+  {
+    "term_id": "TUNISIAN-HOOK",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "TUNISIAN-HOOK",
+    "tag_id": "hook"
+  },
+  {
+    "term_id": "TUNISIAN-HOOK",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "INTERCHANGEABLE",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "INTERCHANGEABLE",
+    "tag_id": "hook"
+  },
+  {
+    "term_id": "INTERCHANGEABLE",
+    "tag_id": "modular"
+  },
+  {
+    "term_id": "STITCH-MARKER",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "STITCH-MARKER",
+    "tag_id": "marker"
+  },
+  {
+    "term_id": "STITCH-MARKER",
+    "tag_id": "tracking"
+  },
+  {
+    "term_id": "YARN-NEEDLE",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "YARN-NEEDLE",
+    "tag_id": "needle"
+  },
+  {
+    "term_id": "YARN-NEEDLE",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "BLOCKING-PINS",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "BLOCKING-PINS",
+    "tag_id": "blocking"
+  },
+  {
+    "term_id": "BLOCKING-PINS",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "ALPINE",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "ALPINE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "ALPINE",
+    "tag_id": "raised"
+  },
+  {
+    "term_id": "BASKET-WEAVE",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "BASKET-WEAVE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BASKET-WEAVE",
+    "tag_id": "woven"
+  },
+  {
+    "term_id": "BEAN",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "BEAN",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BEAN",
+    "tag_id": "raised"
+  },
+  {
+    "term_id": "BERRY",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "BERRY",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "BERRY",
+    "tag_id": "bobble"
+  },
+  {
+    "term_id": "CROCODILE",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "CROCODILE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "CROCODILE",
+    "tag_id": "scales"
+  },
+  {
+    "term_id": "DIAMOND",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "DIAMOND",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "DIAMOND",
+    "tag_id": "geometric"
+  },
+  {
+    "term_id": "HERRINGBONE",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "HERRINGBONE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "HERRINGBONE",
+    "tag_id": "diagonal"
+  },
+  {
+    "term_id": "JASMINE",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "JASMINE",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "JASMINE",
+    "tag_id": "puff"
+  },
+  {
+    "term_id": "LARKSFOOT",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "LARKSFOOT",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "LARKSFOOT",
+    "tag_id": "spike"
+  },
+  {
+    "term_id": "TRINITY",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "TRINITY",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "TRINITY",
+    "tag_id": "cluster"
+  },
+  {
+    "term_id": "RAGLAN",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "RAGLAN",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "RAGLAN",
+    "tag_id": "sleeve"
+  },
+  {
+    "term_id": "SET-IN",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "SET-IN",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "SET-IN",
+    "tag_id": "sleeve"
+  },
+  {
+    "term_id": "DROP-SHOULDER",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "DROP-SHOULDER",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "DROP-SHOULDER",
+    "tag_id": "sleeve"
+  },
+  {
+    "term_id": "YOKE",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "YOKE",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "YOKE",
+    "tag_id": "seamless"
+  },
+  {
+    "term_id": "SHORT-ROW",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "SHORT-ROW",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "SHORT-ROW",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "STEEK",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "STEEK",
+    "tag_id": "cutting"
+  },
+  {
+    "term_id": "STEEK",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "WAIST-SHAPING",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "WAIST-SHAPING",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "WAIST-SHAPING",
+    "tag_id": "fit"
+  },
+  {
+    "term_id": "BUST-DART",
+    "tag_id": "garment"
+  },
+  {
+    "term_id": "BUST-DART",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "BUST-DART",
+    "tag_id": "fit"
+  },
+  {
+    "term_id": "SABLE",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "SABLE",
+    "tag_id": "stash"
+  },
+  {
+    "term_id": "SABLE",
+    "tag_id": "humor"
+  },
+  {
+    "term_id": "TINK",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "TINK",
+    "tag_id": "undo"
+  },
+  {
+    "term_id": "TINK",
+    "tag_id": "backwards"
+  },
+  {
+    "term_id": "UFO",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "UFO",
+    "tag_id": "project"
+  },
+  {
+    "term_id": "UFO",
+    "tag_id": "unfinished"
+  },
+  {
+    "term_id": "HOTH",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "HOTH",
+    "tag_id": "project"
+  },
+  {
+    "term_id": "HOTH",
+    "tag_id": "hot"
+  },
+  {
+    "term_id": "CAL",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "CAL",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "CAL",
+    "tag_id": "project"
+  },
+  {
+    "term_id": "STASH-BUSTER",
+    "tag_id": "slang"
+  },
+  {
+    "term_id": "STASH-BUSTER",
+    "tag_id": "project"
+  },
+  {
+    "term_id": "STASH-BUSTER",
+    "tag_id": "yarn-usage"
+  },
+  {
+    "term_id": "AMISH-KNOT",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "AMISH-KNOT",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "AMISH-KNOT",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "RUSSIAN-JOIN",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "RUSSIAN-JOIN",
+    "tag_id": "joining"
+  },
+  {
+    "term_id": "RUSSIAN-JOIN",
+    "tag_id": "invisible"
+  },
+  {
+    "term_id": "CELTIC-WEAVE",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "CELTIC-WEAVE",
+    "tag_id": "cables"
+  },
+  {
+    "term_id": "CELTIC-WEAVE",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "JAPANESE-FLOWER",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "JAPANESE-FLOWER",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "JAPANESE-FLOWER",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "NORDIC-STAR",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "NORDIC-STAR",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "NORDIC-STAR",
+    "tag_id": "traditional"
+  },
+  {
+    "term_id": "PERUVIAN-BRAID",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "PERUVIAN-BRAID",
+    "tag_id": "edging"
+  },
+  {
+    "term_id": "PERUVIAN-BRAID",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "AFRICAN-FLOWER",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "AFRICAN-FLOWER",
+    "tag_id": "hexagon"
+  },
+  {
+    "term_id": "AFRICAN-FLOWER",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "TURKISH-CAST-ON",
+    "tag_id": "regional"
+  },
+  {
+    "term_id": "TURKISH-CAST-ON",
+    "tag_id": "provisional"
+  },
+  {
+    "term_id": "TURKISH-CAST-ON",
+    "tag_id": "technique"
+  },
+  {
+    "term_id": "FIBONACCI",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "FIBONACCI",
+    "tag_id": "sequence"
+  },
+  {
+    "term_id": "FIBONACCI",
+    "tag_id": "striping"
+  },
+  {
+    "term_id": "FRACTAL",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "FRACTAL",
+    "tag_id": "geometric"
+  },
+  {
+    "term_id": "FRACTAL",
+    "tag_id": "art"
+  },
+  {
+    "term_id": "HYPERBOLIC",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "HYPERBOLIC",
+    "tag_id": "coral-reef"
+  },
+  {
+    "term_id": "HYPERBOLIC",
+    "tag_id": "sculptural"
+  },
+  {
+    "term_id": "TESSELLATION",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "TESSELLATION",
+    "tag_id": "repeating"
+  },
+  {
+    "term_id": "TESSELLATION",
+    "tag_id": "pattern"
+  },
+  {
+    "term_id": "GOLDEN-RATIO",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "GOLDEN-RATIO",
+    "tag_id": "proportion"
+  },
+  {
+    "term_id": "GOLDEN-RATIO",
+    "tag_id": "design"
+  },
+  {
+    "term_id": "MODULAR",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "MODULAR",
+    "tag_id": "construction"
+  },
+  {
+    "term_id": "MODULAR",
+    "tag_id": "units"
+  },
+  {
+    "term_id": "MITERED",
+    "tag_id": "mathematical"
+  },
+  {
+    "term_id": "MITERED",
+    "tag_id": "square"
+  },
+  {
+    "term_id": "MITERED",
+    "tag_id": "diagonal"
+  },
+  {
+    "term_id": "SURFACE-SLIP",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "SURFACE-SLIP",
+    "tag_id": "surface"
+  },
+  {
+    "term_id": "SURFACE-SLIP",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "SURFACE-CHAIN",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "SURFACE-CHAIN",
+    "tag_id": "surface"
+  },
+  {
+    "term_id": "SURFACE-CHAIN",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "APPLIQUE",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "APPLIQUE",
+    "tag_id": "motif"
+  },
+  {
+    "term_id": "APPLIQUE",
+    "tag_id": "sewing"
+  },
+  {
+    "term_id": "FRINGE",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "FRINGE",
+    "tag_id": "edge"
+  },
+  {
+    "term_id": "FRINGE",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "TASSEL",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "TASSEL",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "TASSEL",
+    "tag_id": "accent"
+  },
+  {
+    "term_id": "POM-POM",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "POM-POM",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "POM-POM",
+    "tag_id": "accent"
+  },
+  {
+    "term_id": "BEAD-CROCHET",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "BEAD-CROCHET",
+    "tag_id": "beads"
+  },
+  {
+    "term_id": "BEAD-CROCHET",
+    "tag_id": "jewelry"
+  },
+  {
+    "term_id": "SEQUIN",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "SEQUIN",
+    "tag_id": "sparkle"
+  },
+  {
+    "term_id": "SEQUIN",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "WET-BLOCK",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "WET-BLOCK",
+    "tag_id": "blocking"
+  },
+  {
+    "term_id": "WET-BLOCK",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "STEAM-BLOCK",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "STEAM-BLOCK",
+    "tag_id": "blocking"
+  },
+  {
+    "term_id": "STEAM-BLOCK",
+    "tag_id": "shaping"
+  },
+  {
+    "term_id": "SPRAY-BLOCK",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "SPRAY-BLOCK",
+    "tag_id": "blocking"
+  },
+  {
+    "term_id": "SPRAY-BLOCK",
+    "tag_id": "gentle"
+  },
+  {
+    "term_id": "FELTING",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "FELTING",
+    "tag_id": "shrinking"
+  },
+  {
+    "term_id": "FELTING",
+    "tag_id": "wool"
+  },
+  {
+    "term_id": "FULLING",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "FULLING",
+    "tag_id": "controlled-felting"
+  },
+  {
+    "term_id": "FULLING",
+    "tag_id": "wool"
+  },
+  {
+    "term_id": "STARCH",
+    "tag_id": "finishing"
+  },
+  {
+    "term_id": "STARCH",
+    "tag_id": "stiffening"
+  },
+  {
+    "term_id": "STARCH",
+    "tag_id": "doilies"
+  },
+  {
+    "term_id": "KNOOKING",
+    "tag_id": "hybrid"
+  },
+  {
+    "term_id": "KNOOKING",
+    "tag_id": "knit-look"
+  },
+  {
+    "term_id": "KNOOKING",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "CROCHET-KNIT",
+    "tag_id": "hybrid"
+  },
+  {
+    "term_id": "CROCHET-KNIT",
+    "tag_id": "mixed-media"
+  },
+  {
+    "term_id": "CROCHET-KNIT",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "BROOMSTICK",
+    "tag_id": "hybrid"
+  },
+  {
+    "term_id": "BROOMSTICK",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "BROOMSTICK",
+    "tag_id": "vintage"
+  },
+  {
+    "term_id": "HAIRPIN",
+    "tag_id": "hybrid"
+  },
+  {
+    "term_id": "HAIRPIN",
+    "tag_id": "lace"
+  },
+  {
+    "term_id": "HAIRPIN",
+    "tag_id": "strips"
+  },
+  {
+    "term_id": "LOOP-YARN",
+    "tag_id": "hybrid"
+  },
+  {
+    "term_id": "LOOP-YARN",
+    "tag_id": "specialty-yarn"
+  },
+  {
+    "term_id": "LOOP-YARN",
+    "tag_id": "modern"
+  },
+  {
+    "term_id": "TENSION-RING",
+    "tag_id": "troubleshooting"
+  },
+  {
+    "term_id": "TENSION-RING",
+    "tag_id": "tool"
+  },
+  {
+    "term_id": "TENSION-RING",
+    "tag_id": "tension"
+  },
+  {
+    "term_id": "SPLIT-YARN",
+    "tag_id": "troubleshooting"
+  },
+  {
+    "term_id": "SPLIT-YARN",
+    "tag_id": "problem"
+  },
+  {
+    "term_id": "SPLIT-YARN",
+    "tag_id": "yarn"
+  },
+  {
+    "term_id": "TWISTED-CHAIN",
+    "tag_id": "troubleshooting"
+  },
+  {
+    "term_id": "TWISTED-CHAIN",
+    "tag_id": "problem"
+  },
+  {
+    "term_id": "TWISTED-CHAIN",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "CURLING-EDGE",
+    "tag_id": "troubleshooting"
+  },
+  {
+    "term_id": "CURLING-EDGE",
+    "tag_id": "problem"
+  },
+  {
+    "term_id": "CURLING-EDGE",
+    "tag_id": "edge"
+  },
+  {
+    "term_id": "YARN-CHICKEN",
+    "tag_id": "troubleshooting"
+  },
+  {
+    "term_id": "YARN-CHICKEN",
+    "tag_id": "yarn-shortage"
+  },
+  {
+    "term_id": "YARN-CHICKEN",
+    "tag_id": "gamble"
+  },
+  {
+    "term_id": "hoth",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "hoth",
+    "tag_id": "finished"
+  },
+  {
+    "term_id": "hoth",
+    "tag_id": "pride"
+  },
+  {
+    "term_id": "foth",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "foth",
+    "tag_id": "finished"
+  },
+  {
+    "term_id": "foth",
+    "tag_id": "pride"
+  },
+  {
+    "term_id": "hooker",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "hooker",
+    "tag_id": "humor"
+  },
+  {
+    "term_id": "hooker",
+    "tag_id": "crocheter"
+  },
+  {
+    "term_id": "ocd",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "ocd",
+    "tag_id": "humor"
+  },
+  {
+    "term_id": "ocd",
+    "tag_id": "addiction"
+  },
+  {
+    "term_id": "cip",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "cip",
+    "tag_id": "social"
+  },
+  {
+    "term_id": "cip",
+    "tag_id": "portable"
+  },
+  {
+    "term_id": "talc",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "talc",
+    "tag_id": "portable"
+  },
+  {
+    "term_id": "talc",
+    "tag_id": "travel"
+  },
+  {
+    "term_id": "pigs",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "pigs",
+    "tag_id": "storage"
+  },
+  {
+    "term_id": "pigs",
+    "tag_id": "humor"
+  },
+  {
+    "term_id": "phd",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "phd",
+    "tag_id": "wip"
+  },
+  {
+    "term_id": "phd",
+    "tag_id": "incomplete"
+  },
+  {
+    "term_id": "toad",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "toad",
+    "tag_id": "abandoned"
+  },
+  {
+    "term_id": "toad",
+    "tag_id": "frustration"
+  },
+  {
+    "term_id": "crojo",
+    "tag_id": "community"
+  },
+  {
+    "term_id": "crojo",
+    "tag_id": "motivation"
+  },
+  {
+    "term_id": "crojo",
+    "tag_id": "inspiration"
+  },
+  {
+    "term_id": "entrelac",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "entrelac",
+    "tag_id": "tunisian"
+  },
+  {
+    "term_id": "entrelac",
+    "tag_id": "basketweave"
+  },
+  {
+    "term_id": "intarsia",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "intarsia",
+    "tag_id": "colorwork"
+  },
+  {
+    "term_id": "intarsia",
+    "tag_id": "blocks"
+  },
+  {
+    "term_id": "wire-crochet",
+    "tag_id": "specialty"
+  },
+  {
+    "term_id": "wire-crochet",
+    "tag_id": "jewelry"
+  },
+  {
+    "term_id": "wire-crochet",
+    "tag_id": "sculpture"
+  },
+  {
+    "term_id": "linked-dc",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "linked-dc",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "linked-dc",
+    "tag_id": "dense"
+  },
+  {
+    "term_id": "fdc",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "fdc",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "fdc",
+    "tag_id": "stretchy"
+  },
+  {
+    "term_id": "loop-st",
+    "tag_id": "intermediate"
+  },
+  {
+    "term_id": "loop-st",
+    "tag_id": "texture"
+  },
+  {
+    "term_id": "loop-st",
+    "tag_id": "fur"
+  },
+  {
+    "term_id": "surface-crochet",
+    "tag_id": "decorative"
+  },
+  {
+    "term_id": "surface-crochet",
+    "tag_id": "embellishment"
+  },
+  {
+    "term_id": "surface-crochet",
+    "tag_id": "design"
+  },
+  {
+    "term_id": "chainless-foundation",
+    "tag_id": "advanced"
+  },
+  {
+    "term_id": "chainless-foundation",
+    "tag_id": "foundation"
+  },
+  {
+    "term_id": "chainless-foundation",
+    "tag_id": "alternative"
   }
 ]
