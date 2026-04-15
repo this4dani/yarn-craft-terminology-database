@@ -1,4 +1,4 @@
-# Crochet Glossary API - .gitignore
+# Yarn Craft Terminology Database - .gitignore
 
 # ============================================
 # SENSITIVE FILES (NEVER COMMIT)
@@ -238,25 +238,25 @@ planning.md
 personal-notes/
 
 # ============================================
-# KEEP THESE FILES (IMPORTANT FOR API)
+# KEEP THESE FILES (IMPORTANT FOR DATABASE)
 # ============================================
 
 # These should be committed:
-# *.json (your API endpoints)
+# data/*.json (database tables)
+# schemas/*.json (JSON Schema definitions)
 # README.md
 # docs/*.md
-# examples/*.html
 # scripts/*.py (but not credentials.json)
 
 # ============================================
 # OPTIONAL: UNCOMMENT IF NEEDED
 # ============================================
 
-# If you want to keep API files private during development:
-# *.json
-# !package.json
-# !api-info.json
+# If you want to keep data files private during development:
+# data/*.json
+# !data/craft_types.json
+# !data/sources.json
 
 # If you're working on quiz questions privately:
-# quiz.json
-# quiz-drafts/
+# data/quiz.json
+# data/quizzes/
