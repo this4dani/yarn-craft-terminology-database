@@ -2,6 +2,12 @@
 
 The first comprehensive, open, API-accessible database of yarn craft terminology. Starting from a crochet foundation and expanding across all fiber arts disciplines — knitting, weaving, embroidery, and more.
 
+## Project Plan
+
+The complete project documentation — sustainability plan, grant framework, board recruitment, feasibility research, financial projections, and outreach strategy:
+
+**[YCTD Project Plan](https://docs.google.com/document/d/1A7A6uZsniki8M90GbcWUQM7NJcIJE8CFCuPnc8ysjmk/edit?usp=sharing)**
+
 ## Key Features
 
 - **265+ Terms:** Basic stitches (SC, DC, HDC) to advanced techniques (cables, colorwork, C2C, graphgans), plus US/UK translations and community slang
