@@ -1,1 +1,46 @@
-
+[
+  {
+    "term_id": "SN",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SN",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "CH",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "CH",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "SC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "SC",
+    "source_id": "tkga"
+  },
+  {
+    "term_id": "DC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "DC",
+    "source_id": "cgoa"
+  },
+  {
+    "term_id": "HDC",
+    "source_id": "cyc"
+  },
+  {
+    "term_id": "HDC",
+    "source_id": "cgoa"
+  }
+]
