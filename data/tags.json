@@ -1,1 +1,146 @@
-
+[
+  {
+    "tag_id": "basic",
+    "name": "Basic"
+  },
+  {
+    "tag_id": "foundation",
+    "name": "Foundation"
+  },
+  {
+    "tag_id": "starting",
+    "name": "Starting"
+  },
+  {
+    "tag_id": "common",
+    "name": "Common"
+  },
+  {
+    "tag_id": "essential",
+    "name": "Essential"
+  },
+  {
+    "tag_id": "advanced",
+    "name": "Advanced"
+  },
+  {
+    "tag_id": "decorative",
+    "name": "Decorative"
+  },
+  {
+    "tag_id": "structural",
+    "name": "Structural"
+  },
+  {
+    "tag_id": "finishing",
+    "name": "Finishing"
+  },
+  {
+    "tag_id": "joining",
+    "name": "Joining"
+  },
+  {
+    "tag_id": "increase",
+    "name": "Increase"
+  },
+  {
+    "tag_id": "decrease",
+    "name": "Decrease"
+  },
+  {
+    "tag_id": "texture",
+    "name": "Texture"
+  },
+  {
+    "tag_id": "colorwork",
+    "name": "Colorwork"
+  },
+  {
+    "tag_id": "lace",
+    "name": "Lace"
+  },
+  {
+    "tag_id": "edging",
+    "name": "Edging"
+  },
+  {
+    "tag_id": "turning",
+    "name": "Turning"
+  },
+  {
+    "tag_id": "measurement",
+    "name": "Measurement"
+  },
+  {
+    "tag_id": "gauge",
+    "name": "Gauge"
+  },
+  {
+    "tag_id": "hook",
+    "name": "Hook"
+  },
+  {
+    "tag_id": "yarn",
+    "name": "Yarn"
+  },
+  {
+    "tag_id": "fiber",
+    "name": "Fiber"
+  },
+  {
+    "tag_id": "pattern-reading",
+    "name": "Pattern reading"
+  },
+  {
+    "tag_id": "abbreviation",
+    "name": "Abbreviation"
+  },
+  {
+    "tag_id": "symbol",
+    "name": "Symbol"
+  },
+  {
+    "tag_id": "us-uk",
+    "name": "US/UK terminology"
+  },
+  {
+    "tag_id": "left-handed",
+    "name": "Left-handed"
+  },
+  {
+    "tag_id": "beginner-friendly",
+    "name": "Beginner friendly"
+  },
+  {
+    "tag_id": "garment",
+    "name": "Garment"
+  },
+  {
+    "tag_id": "amigurumi",
+    "name": "Amigurumi"
+  },
+  {
+    "tag_id": "tunisian",
+    "name": "Tunisian"
+  },
+  {
+    "tag_id": "vintage",
+    "name": "Vintage"
+  },
+  {
+    "tag_id": "modern",
+    "name": "Modern"
+  },
+  {
+    "tag_id": "3d",
+    "name": "3D/sculptural"
+  },
+  {
+    "tag_id": "flat-work",
+    "name": "Flat work"
+  },
+  {
+    "tag_id": "in-the-round",
+    "name": "In the round"
+  }
+]
