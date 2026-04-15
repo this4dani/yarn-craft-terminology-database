@@ -1,12 +1,12 @@
-# DANI's Crochet Glossary API Documentation
+# Yarn Craft Terminology Database API Documentation
 
 ## Overview
 
-The DANI's Crochet Glossary API provides comprehensive access to crochet terminology, including stitch names, abbreviations, symbols, and **step-by-step instructions**. All data is sourced from curated Google Sheets and updated regularly.
+The Yarn Craft Terminology Database API provides comprehensive access to crochet terminology, including stitch names, abbreviations, symbols, and **step-by-step instructions**. All data is sourced from curated Google Sheets and updated regularly.
 
 ## Base URL
 ```
-https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/
+https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/
 ```
 
 ## API Endpoints
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/
 **Size:** ~50KB
 
 ```bash
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json
 ```
 
 **Response Format:**
@@ -38,7 +38,7 @@ curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms
 **Size:** ~200KB
 
 ```bash
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/glossary.json
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json
 ```
 
 **Response Format:**
@@ -72,7 +72,7 @@ curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/gloss
 **Use Case:** Building category-based navigation  
 
 ```bash
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/categories.json
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/categories.json
 ```
 
 **Response Format:**
@@ -96,7 +96,7 @@ curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/categ
 **Use Case:** Educational apps, skill testing  
 
 ```bash
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/quiz.json
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/quiz.json
 ```
 
 **Response Format:**
@@ -160,7 +160,7 @@ Every term contains these fields:
 ### JavaScript Fetch
 ```javascript
 async function getCrochetTerms() {
-  const response = await fetch('https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/glossary.json');
+  const response = await fetch('https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json');
   const data = await response.json();
   return data.terms;
 }
@@ -170,7 +170,7 @@ async function getCrochetTerms() {
 ```python
 import requests
 
-url = "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json"
+url = "https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json"
 response = requests.get(url)
 terms = response.json()
 ```
@@ -178,7 +178,7 @@ terms = response.json()
 ### cURL with jq
 ```bash
 # Get all single crochet variations
-curl -s https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/glossary.json | \
+curl -s https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/glossary.json | \
   jq '.terms[] | select(.name_us | contains("Single"))'
 ```
 
@@ -243,12 +243,12 @@ This is a **public, free API** hosted on GitHub.
 
 ## License
 
-This API and data are provided under **MIT License** for educational and commercial use.
+This API and data are provided under **CC BY-SA 4.0** for educational and commercial use.
 
 ### Attribution:
 When using this API, please credit:
-- **Data Source:** DANI's Crochet Glossary
-- **Repository:** https://github.com/this4dani/crochet-glossary-api
+- **Data Source:** Yarn Craft Terminology Database
+- **Repository:** https://github.com/this4dani/yarn-craft-terminology-database
 
 ---
 
@@ -256,10 +256,10 @@ When using this API, please credit:
 
 ```bash
 # Test the API right now:
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/api-info.json
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/api-info.json
 
 # Get your first crochet term:
-curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json | head -20
+curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json | head -20
 ```
 
 **Happy Crocheting!**
