@@ -262,4 +262,4 @@ curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database
 curl https://raw.githubusercontent.com/this4dani/yarn-craft-terminology-database/main/terms.json | head -20
 ```
 
-**Happy Crocheting!**
+
