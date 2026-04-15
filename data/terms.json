@@ -285,7 +285,7 @@
   },
   {
     "term_id": "INVDEC",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Invisible Decrease",
@@ -649,7 +649,7 @@
   },
   {
     "term_id": "VST",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "V-Stitch",
@@ -675,7 +675,7 @@
   },
   {
     "term_id": "SHELL",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Shell Stitch",
@@ -753,7 +753,7 @@
   },
   {
     "term_id": "SPK",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Spike Stitch",
@@ -831,7 +831,7 @@
   },
   {
     "term_id": "PICOT",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Picot Stitch",
@@ -883,7 +883,7 @@
   },
   {
     "term_id": "TSS",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Tunisian Simple Stitch",
@@ -909,7 +909,7 @@
   },
   {
     "term_id": "TKS",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Tunisian Knit Stitch",
@@ -1273,7 +1273,7 @@
   },
   {
     "term_id": "BLS",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "other",
     "name_us": "Broomstick Lace Stitch",
@@ -2509,7 +2509,7 @@
   },
   {
     "term_id": "MOSAIC",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "modern",
     "name_us": "Mosaic Crochet",
@@ -2535,7 +2535,7 @@
   },
   {
     "term_id": "OVERLAY",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "modern",
     "name_us": "Overlay Crochet",
@@ -2561,7 +2561,7 @@
   },
   {
     "term_id": "WAFFLE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "modern",
     "name_us": "Waffle Stitch",
@@ -2977,7 +2977,7 @@
   },
   {
     "term_id": "WHIP",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "construction",
     "name_us": "Whip Stitch",
@@ -3003,7 +3003,7 @@
   },
   {
     "term_id": "MATTRESS",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "construction",
     "name_us": "Mattress Stitch",
@@ -3107,7 +3107,7 @@
   },
   {
     "term_id": "CRAB",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "construction",
     "name_us": "Crab Stitch",
@@ -3185,7 +3185,7 @@
   },
   {
     "term_id": "BLANKET-ST",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "construction",
     "name_us": "Blanket Stitch Edge",
@@ -4095,7 +4095,7 @@
   },
   {
     "term_id": "PINEAPPLE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Pineapple Stitch",
@@ -4121,7 +4121,7 @@
   },
   {
     "term_id": "PEACOCK",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Peacock Stitch",
@@ -4147,7 +4147,7 @@
   },
   {
     "term_id": "LOVERS-KNOT",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Lovers Knot",
@@ -4173,7 +4173,7 @@
   },
   {
     "term_id": "STAR-ST",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Star Stitch",
@@ -4225,7 +4225,7 @@
   },
   {
     "term_id": "BAVARIAN",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Bavarian Crochet",
@@ -4277,7 +4277,7 @@
   },
   {
     "term_id": "BULLION",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "vintage",
     "name_us": "Bullion Stitch",
@@ -4433,7 +4433,7 @@
   },
   {
     "term_id": "STITCH-MARKER",
-    "entry_type": "tool",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "tool",
     "name_us": "Stitch Marker",
@@ -4511,7 +4511,7 @@
   },
   {
     "term_id": "ALPINE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Alpine Stitch",
@@ -4537,7 +4537,7 @@
   },
   {
     "term_id": "BASKET-WEAVE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Basketweave Stitch",
@@ -4563,7 +4563,7 @@
   },
   {
     "term_id": "BEAN",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Bean Stitch",
@@ -4589,7 +4589,7 @@
   },
   {
     "term_id": "BERRY",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Berry Stitch",
@@ -4615,7 +4615,7 @@
   },
   {
     "term_id": "CROCODILE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Crocodile Stitch",
@@ -4641,7 +4641,7 @@
   },
   {
     "term_id": "DIAMOND",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Diamond Stitch",
@@ -4667,7 +4667,7 @@
   },
   {
     "term_id": "HERRINGBONE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Herringbone Stitch",
@@ -4693,7 +4693,7 @@
   },
   {
     "term_id": "JASMINE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Jasmine Stitch",
@@ -4719,7 +4719,7 @@
   },
   {
     "term_id": "LARKSFOOT",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Larksfoot Stitch",
@@ -4745,7 +4745,7 @@
   },
   {
     "term_id": "TRINITY",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "specialty",
     "name_us": "Trinity Stitch",
@@ -4979,7 +4979,7 @@
   },
   {
     "term_id": "SABLE",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "SABLE",
@@ -5005,7 +5005,7 @@
   },
   {
     "term_id": "TINK",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Tink",
@@ -5031,7 +5031,7 @@
   },
   {
     "term_id": "UFO",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "UFO",
@@ -5057,7 +5057,7 @@
   },
   {
     "term_id": "HOTH",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "HOTH",
@@ -5083,7 +5083,7 @@
   },
   {
     "term_id": "CAL",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "CAL",
@@ -5109,7 +5109,7 @@
   },
   {
     "term_id": "STASH-BUSTER",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Stash Buster",
@@ -5135,7 +5135,7 @@
   },
   {
     "term_id": "AMISH-KNOT",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "regional",
     "name_us": "Amish Knot",
@@ -5187,7 +5187,7 @@
   },
   {
     "term_id": "CELTIC-WEAVE",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "regional",
     "name_us": "Celtic Weave",
@@ -5525,7 +5525,7 @@
   },
   {
     "term_id": "SURFACE-SLIP",
-    "entry_type": "technique",
+    "entry_type": "stitch",
     "craft_type": "crochet",
     "category": "embellishment",
     "name_us": "Surface Slip Stitch",
@@ -6149,7 +6149,7 @@
   },
   {
     "term_id": "hoth",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Hot Off The Hook",
@@ -6175,7 +6175,7 @@
   },
   {
     "term_id": "foth",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Fresh Off The Hook",
@@ -6201,7 +6201,7 @@
   },
   {
     "term_id": "hooker",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Hooker",
@@ -6227,7 +6227,7 @@
   },
   {
     "term_id": "ocd",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Obsessive Crocheting Disorder",
@@ -6253,7 +6253,7 @@
   },
   {
     "term_id": "cip",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Crochet In Public",
@@ -6279,7 +6279,7 @@
   },
   {
     "term_id": "talc",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Take Along Crochet",
@@ -6305,7 +6305,7 @@
   },
   {
     "term_id": "pigs",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Projects In Grocery Sacks",
@@ -6331,7 +6331,7 @@
   },
   {
     "term_id": "phd",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Projects Half Done",
@@ -6357,7 +6357,7 @@
   },
   {
     "term_id": "toad",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Trashed Object Abandoned in Disgust",
@@ -6383,7 +6383,7 @@
   },
   {
     "term_id": "crojo",
-    "entry_type": "technique",
+    "entry_type": "pattern-term",
     "craft_type": "crochet",
     "category": "slang",
     "name_us": "Crochet Mojo",
