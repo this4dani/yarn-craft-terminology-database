@@ -1,1 +1,127 @@
-
+[
+  {
+    "category_id": "basic",
+    "name": "Basic",
+    "description": "Fundamental stitches and techniques"
+  },
+  {
+    "category_id": "shaping",
+    "name": "Shaping",
+    "description": "Increasing, decreasing, and shaping techniques"
+  },
+  {
+    "category_id": "foundation",
+    "name": "Foundation",
+    "description": "Starting chains and foundation stitches"
+  },
+  {
+    "category_id": "texture",
+    "name": "Texture",
+    "description": "Textured stitch patterns and surface techniques"
+  },
+  {
+    "category_id": "technique",
+    "name": "Technique",
+    "description": "Methods and processes"
+  },
+  {
+    "category_id": "pattern",
+    "name": "Pattern",
+    "description": "Pattern reading and construction terms"
+  },
+  {
+    "category_id": "finishing",
+    "name": "Finishing",
+    "description": "Finishing, joining, and edging techniques"
+  },
+  {
+    "category_id": "construction",
+    "name": "Construction",
+    "description": "Garment and project construction methods"
+  },
+  {
+    "category_id": "colorwork",
+    "name": "Colorwork",
+    "description": "Color changing and multicolor techniques"
+  },
+  {
+    "category_id": "lace",
+    "name": "Lace",
+    "description": "Lace and openwork stitch patterns"
+  },
+  {
+    "category_id": "tunisian",
+    "name": "Tunisian",
+    "description": "Tunisian crochet stitches and techniques"
+  },
+  {
+    "category_id": "amigurumi",
+    "name": "Amigurumi",
+    "description": "Amigurumi and stuffed figure techniques"
+  },
+  {
+    "category_id": "tool",
+    "name": "Tool",
+    "description": "Equipment and materials"
+  },
+  {
+    "category_id": "yarn",
+    "name": "Yarn",
+    "description": "Yarn types, weights, and fiber terminology"
+  },
+  {
+    "category_id": "embellishment",
+    "name": "Embellishment",
+    "description": "Decorative additions and surface embellishments"
+  },
+  {
+    "category_id": "garment",
+    "name": "Garment",
+    "description": "Garment-specific construction and fitting terms"
+  },
+  {
+    "category_id": "troubleshooting",
+    "name": "Troubleshooting",
+    "description": "Common problems and fixes"
+  },
+  {
+    "category_id": "modern",
+    "name": "Modern",
+    "description": "Modern and contemporary crochet terms"
+  },
+  {
+    "category_id": "vintage",
+    "name": "Vintage",
+    "description": "Historical and vintage crochet terminology"
+  },
+  {
+    "category_id": "specialty",
+    "name": "Specialty",
+    "description": "Specialized and niche techniques"
+  },
+  {
+    "category_id": "hybrid",
+    "name": "Hybrid",
+    "description": "Cross-craft and hybrid techniques"
+  },
+  {
+    "category_id": "stitch",
+    "name": "Stitch",
+    "description": "Individual stitch types and variations"
+  },
+  {
+    "category_id": "regional",
+    "name": "Regional",
+    "description": "Regional terminology differences"
+  },
+  {
+    "category_id": "slang",
+    "name": "Slang",
+    "description": "Informal and community slang terms"
+  },
+  {
+    "category_id": "mathematical",
+    "name": "Mathematical",
+    "description": "Mathematical concepts in crochet"
+  }
+]
